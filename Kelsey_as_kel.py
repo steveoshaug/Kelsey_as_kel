@@ -1,0 +1,12 @@
+import random
+p=random.randint(1,100)
+r=random.randint(200,300)
+print("Your first random number is: ")
+print(p)
+print("Your second random number is: ")
+print(r)
+s=int(p)+int(r)
+print("The sum of the numbers is: ")
+print(s)
+i=input("Type a 4 letter word. ")
+print(i)
